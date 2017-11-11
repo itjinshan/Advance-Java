@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;exceptions.Fix1to100&apos; to &apos;Fix101to199&apos;&#x0A;- Original project: &apos;Project_1_Jinshan_Jiang&apos;&#x0A;- Original element: &apos;exceptions.Fix1to100&apos;&#x0A;- Renamed element: &apos;exceptions.Fix101to199&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Fix1to100&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;exceptions{Fix1to100.java[Fix1to100" matchStrategy="1" name="Fix101to199" qualified="false" references="true" similarDeclarations="false" stamp="1454277596858" textual="false" version="1.0"/>
+</session>

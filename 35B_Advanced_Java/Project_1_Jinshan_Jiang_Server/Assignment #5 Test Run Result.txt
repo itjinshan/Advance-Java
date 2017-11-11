@@ -1,0 +1,48 @@
+**************************** Running Result for Server ************************
+Server is ready...
+Server standing by...
+Handling session with The Server:1034
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Handling session with The Server:1034
+value : Ford Focus
+value : Ford Crown
+
+**************************** Running Result for Client ************************
+Handling session with 127.0.0.1:1034
+Client Finished Loading Property File To Property Obejct.
+Server: Success!! Ready to use!
+Handling session with 127.0.0.1:1034
+Ford Focus
+Ford Crown
+Ford Crown
+Brand: Ford Crown
+Model: Crown Victoria
+Base Price: 26950.0
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Color: 
+Grey with price: $0.0
+CD Silver Clearcoat Metallic with price: $0.0
+Twilight Blue Clearcoat Metallic with price: $0.0
+French Blue Clearcoat Metallic with price: $0.0
+Sangria Red Clearcoat Metallic with price: $0.0
+Pitch Black Clearcoat with price: $0.0
+NEW COLOR NEW COLOR with price: $1.0E9      <— testing line(Succeed)
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Transmission: 
+Automatic with price: $0.0
+Standard with price: $-700.0
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Brakes/Traction Control: 
+Standard with price: $0.0
+ABS with price: $450.0
+ABS with Advance Trac with price: $1220.0
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Side Impact Air Bags: 
+None with price: $0.0
+Selected with price: $650.0
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Power Moonroof: 
+None with price: $0.0
+Selected with price: $720.0
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Total Price of Choices is: 0.0
